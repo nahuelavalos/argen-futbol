@@ -1,0 +1,122 @@
+<!DOCTYPE html5>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArgenFutbol-2001</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+<div class="container-fluid">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid d-flex justify-content-center">
+          <a class="navbar-brand" href="#">ArgenFutbol</a>
+            <!--ul class="navbar-nav me-auto mb-2 mb-lg-0"></ul-->
+        </div>
+    </nav>
+    <div class="container-fluid">
+    <!-- Menu Principal (elegir equipo) -->    
+        <div class="container mt-3">
+            <div class="row">
+                <!-- Ligas -->
+                <div class="col-auto me-auto btn-group-vertical" role="group" aria-label="Vertical button group" style="padding: 20px;">
+                    <button class="btn rounded btn-info d-block mb-3" style=" color: black; border: 3px solid darkblue;">Argentina</button>
+                    <button class="btn rounded btn-outline-warning d-block mb-3" style="color:saddlebrown">Brasil</button>
+                    <button class="btn rounded btn-outline-danger d-block mb-3">España</button>
+                    <button class="btn rounded btn-outline-success d-block mb-3">Italia</button>
+                    <button class="btn rounded btn-outline-danger d-block mb-3">Inglaterra</button>
+                    <button class="btn rounded btn-light d-block mb-3" style="border: 1px solid">Alemania</button>
+                    <button class="btn rounded btn-outline-primary d-block">Francia</button>
+                </div>
+                <!-- Asociación -->
+                <div class="col-auto me-auto">
+                    <div class="card" style="width: 10.8rem; padding: 20px;background-color: ghostwhite;">
+                        <p class="fw-bold" style="text-align: center;font-size: larger"><br><br><br><br></p>
+                        <img src="./img/afa.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="fw-bold" style="text-align: center;font-size: larger;"><br><br></p>
+                            <!--p class="lh-lg">Asociación Fútbol Argentino</p-->
+                        </div>
+                    </div>
+                </div>
+                <!-- Plantel -->
+                <div class="col" style="border: 1px solid lightgrey; border-radius: 5px; height:442px; overflow-x: auto;">
+                    <table class="table table-striped" style="font-size: small; text-align: center;" id="teamTable">
+                        <thead style="position: sticky; top: 0; background-color: white;">
+                            <tr>
+                                <th>#</th>
+                                <th>Nac</th>
+                                <th>Nombre</th>
+                                <th>Edad</th>
+                                <th>Pos</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- El contenido se llena dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+                <!-- Ficha -->
+                <div class="col">
+                    <div class="card" id="teamCard" style="width: 17.3rem; padding: 4px; font-size: small">
+                        <br><p class="fw-bold" id="teamName" style="font-size: large; text-align: center; background-color:ghostwhite; border: 0.1px solid lightgrey;">Nombre del equipo</p>
+                        <img src="" id="teamImage" class="card-img-top" alt="..." style="width: 70%; margin: auto; display: block;">
+                        <div class="card-body" style="background-color:ghostwhite;">
+                            <p class="fw-bold" id="teamColors" style="font-size: large; text-align: center;">Nombre del equipo</p>
+                            <p class="lh-lg" id="teamDetails">
+                                <b>Apodo</b>: <span id="teamNickname"></span><br>
+                                <b>Fundación</b>: <span id="teamFoundation"></span><br>
+                                <b>Estadio</b>: <span id="teamStadium"></span><br>
+                                <b>Capacidad</b>: <span id="teamCapacity"></span> espectadores<br>
+                                <b>Presupuesto</b>: <span id="teamBudget"></span> USD<br>
+                                <b>Media</b>: <span id="teamAverage"></span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-3">
+            <div class="row align-items-center">
+                <!-- Divisiones -->
+                <div class="col-auto">
+                    <div class="btn-group-vertical" role="group" aria-label="Vertical button group" style="margin-left: 12.4px;">
+                        <button class="btn rounded btn-primary mb-3">Primera A</button>
+                        <button class="btn rounded btn-outline-danger d-block mb-3">Nacional B</button>
+                    </div>
+                </div>
+                <!-- Escudos -->
+                <div class="col-9">
+                    <div class="row gx-1" id="imageContainer"></div>
+                </div>
+                <!-- Partida (Nueva/Cargar) -->
+                <div class="col-auto">
+                    <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                        <button class="btn rounded btn-success mb-3">Nueva</button>
+                        <button class="btn rounded btn-secondary d-block mb-3">Cargar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid" hidden=false>
+    <!-- Modo Manager -->     
+    <span>hola</span>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+<script src="app.js"></script>
+</body>
+<style>
+    .img-thumbnail{
+        background-color:ghostwhite;
+    }
+    .selected {
+    border: 3px solid blue;
+    opacity: 0.9;
+    background-color: snow;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+</style>
+</html>

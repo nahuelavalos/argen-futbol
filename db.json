@@ -1,0 +1,4705 @@
+{
+    "equipos": [
+        {
+            "nombre": "Racing Club",
+            "division": "A",
+            "apodo": "Academia",
+            "colores": "🔵 ⚪️ 🔵",
+            "fundacion": "25 de marzo de 1903",
+            "estadio": "Presidente Perón",
+            "capacidad": 55000,
+            "presupuesto": 10000000,
+            "media": 82,
+            "jugadores": [
+                {
+                    "nombre": "Gustavo Campagnuolo",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/06/1973",
+                    "posicion": "Arquero",
+                    "roles": ["POR"]
+                },
+                {
+                    "nombre": "Gastón Pezzuti",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/02/1976",
+                    "posicion": "Arquero",
+                    "roles": ["POR"]
+                },
+                {
+                    "nombre": "Néstor Ruíz",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/02/1980",
+                    "posicion": "Arquero",
+                    "roles": ["POR"]
+                },
+                {
+                    "nombre": "Carlos Arano",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/05/1980",
+                    "posicion": "Defensor",
+                    "roles": ["LI"]
+                },
+                {
+                    "nombre": "Gerardo Bedoya",
+                    "dorsal": 16,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "26/11/1975",
+                    "posicion": "Defensor",
+                    "roles": ["LI"],
+                    "stats": "",
+                    "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 15000}, {"temporada": "02/03", "años": 1, "sueldo": 15000}]
+                },
+                {
+                    "nombre": "Luciano Castillo",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gabriel Loeschbor",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/06/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Francisco Maciel",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/09/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Leo Tambussi",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/09/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Claudio Úbeda",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/09/1969",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Martín Vitali",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/11/1975",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gustavo Arce",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/07/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gustavo Barros Schelotto",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/05/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Adrián Bastía",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/12/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "José Chatruc",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/11/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Loscri",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/04/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier Lux",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/10/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Carlos Ramos",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/04/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Ríos",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/07/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "César Torres",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/10/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alexander Viveros",
+                    "dorsal": 26,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "08/10/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Maximiliano Estévez",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/06/1977",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Manuel García",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/11/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Rafael Maceratesi",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/04/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Diego Milito",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/06/1979",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "R. Merlo", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/racing.png", "alt": "Imagen 1"},
+            "camisetas": {"src": "./img/racing2-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "River Plate",
+            "division": "A",
+            "apodo": "Millonario",
+            "colores": "⚪️ 🔴 ⚪️",
+            "fundacion": "25 de mayo de 1901",
+            "estadio": "Antonio Vespucio Liberti",
+            "capacidad": 66000,
+            "presupuesto": 20000000,
+            "media": 85,
+            "jugadores": [
+                    {
+                        "nombre": "Juan Carrizo",
+                        "dorsal": 35,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "06/05/1984",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Ángel Comizzo",
+                        "dorsal": 12,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "27/04/1962",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Franco Costanzo",
+                        "dorsal": 1,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "05/09/1980",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Germán Lux",
+                        "dorsal": 31,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "07/06/1982",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Alejandro Saccone",
+                        "dorsal": 12,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "25/03/1974",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Celso Ayala",
+                        "dorsal": 2,
+                        "nacionalidad": "Paraguay",
+                        "nacimiento": "20/08/1970",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Martín Demichelis",
+                        "dorsal": 26,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "20/12/1980",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Alejandro Escalona",
+                        "dorsal": 25,
+                        "nacionalidad": "Chile",
+                        "nacimiento": "14/08/1979",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Ariel Franco",
+                        "dorsal": 13,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "02/06/1978",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Ariel Garcé",
+                        "dorsal": 14,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "14/07/1979",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Matías Lequi",
+                        "dorsal": 3,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "13/05/1981",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Ricardo Rojas",
+                        "dorsal": 21,
+                        "nacionalidad": "Paraguay",
+                        "nacimiento": "26/01/1971",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Pedro Sarabia",
+                        "dorsal": 16,
+                        "nacionalidad": "Paraguay",
+                        "nacimiento": "05/07/1975",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Andres Aimar",
+                        "dorsal": 28,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "18/11/1982",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Leonardo Astrada",
+                        "dorsal": 5,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "06/01/1970",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Esteban Cambiasso",
+                        "dorsal": 19,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "18/08/1980",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Eduardo Coudet",
+                        "dorsal": 8,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "12/09/1974",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Andrés D'Alessandro",
+                        "dorsal": 11,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "15/04/1981",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Emiliano Díaz",
+                        "dorsal": 34,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "22/06/1983",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Marcelo Escudero",
+                        "dorsal": 27,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "25/07/1972",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Claudio Husaín",
+                        "dorsal": 4,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "20/11/1974",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Cristian Ledesma",
+                        "dorsal": 23,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "29/11/1978",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Guillermo Pereyra",
+                        "dorsal": 15,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "20/02/1980",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Juan Raponi",
+                        "dorsal": 20,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "07/05/1982",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Víctor Zapata",
+                        "dorsal": 22,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "20/01/1979",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Martín Cardetti",
+                        "dorsal": 9,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "22/10/1975",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Fernando Cavenaghi",
+                        "dorsal": 30,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "21/09/1983",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Nelson Cuevas",
+                        "dorsal": 24,
+                        "nacionalidad": "Paraguay",
+                        "nacimiento": "10/01/1980",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Alejandro Domínguez",
+                        "dorsal": 35,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "10/06/1981",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Juan Esnáider",
+                        "dorsal": 18,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "05/03/1973",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Maxi López",
+                        "dorsal": 7,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "03/04/1984",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Ariel Ortega",
+                        "dorsal": 10,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "04/03/1974",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Adrián Romero",
+                        "dorsal": 29,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "13/04/1982",
+                        "posicion": "Delantero"
+                    }
+            ],
+            "tecnicos": [
+                {"nombre": "R. Díaz", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/river.png", "alt": "Imagen 2"},
+            "camisetas": {"src": "./img/river-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Boca Juniors",
+            "division": "A",
+            "apodo": "Xeneize",
+            "colores": "🔵 🟡 🔵",
+            "fundacion": "3 de abril de 1905",
+            "estadio": "Alberto J. Armando",
+            "capacidad": 49000,
+            "presupuesto": 20000000,
+            "media": 85,
+            "jugadores": [
+                {
+                    "nombre": "Roberto Abbondanzieri",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/08/1972",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Willy Caballero",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/09/1981",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Joel Barbosa",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/01/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Nicolás Burdisso",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "José Calvo",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/07/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Crosa",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/04/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Forchetti",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "César Gonzalez",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/01/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Jorge Martínez",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/06/1973",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Clemente Rodríguez",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/07/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Rolando Schiavi",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/01/1973",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Traverso",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/04/1972",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Sebastián Battaglia",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/11/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jonathan Fabbro",
+                    "dorsal": 23,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "16/01/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Walter Gaitán",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/03/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Julio Marchant",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/01/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Omar Pérez",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/03/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gustavo Pinto",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/05/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Román Riquelme",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/06/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mauricio Serna",
+                    "dorsal": 5,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "22/01/1968",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier Villarreal",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/03/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Abel Balbo",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/06/1966",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Antonio Barijho",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/03/1977",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Guillermo Barros Schelotto",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/05/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Héctor Bracamonte",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/02/1978",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Ariel Carreño",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/03/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Marcelo Delgado",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/03/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Christian Giménez",
+                    "dorsal": 21,
+                    "nacionalidad": "México",
+                    "nacimiento": "01/02/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Esteban Herrera",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/03/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Alfredo Moreno",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/01/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Carlos Tévez",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/02/1984",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Carlos Bianchi", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/boca.png", "alt": "Imagen 3"},
+            "camisetas": {"src": "./img/boca-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Colón (SF)",
+            "division": "A",
+            "apodo": "Sabalero",
+            "colores": "🔴 ⚫️ 🔴",
+            "fundacion": "5 de mayo de 1905",
+            "estadio": "Brig. Gral. Estanislao López",
+            "capacidad": 31000,
+            "presupuesto": 5000000,
+            "media": 78,
+            "jugadores": [
+                {
+                    "nombre": "Juan Carlos Bentancor",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/04/1977",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Leonardo Díaz",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/09/1972",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Joaquín Irigoytía",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/08/1975",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Pablo Morant",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/06/1970",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ariel Pereyra",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/10/1973",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Alcides Píccoli",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/02/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Delio Toledo",
+                    "dorsal": 14,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "02/10/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Dante Unali",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/12/1966",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Rodolfo Aquino",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/07/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Conrado Besel",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/07/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jorge Bontemps",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/08/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alejandro Capurro",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/10/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Castagno Suárez",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/10/1972",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier Delgado",
+                    "dorsal": 16,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "08/07/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alejandro Gavatorta",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/08/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Germán Gerbaudo",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/09/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Marcelo Long",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/05/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gabriel Migliónico",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/01/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Martín Romagnoli",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/01/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gerardo Solana",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/11/1969",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Zermattén",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/10/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "César Carignano",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/09/1982",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Cristian Castillo",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/02/1975",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Darío Gigena",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/01/1978",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Claudio Graf",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/01/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Marcelo Otero",
+                    "dorsal": 22,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "14/04/1971",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Jorge Fossati", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/colon.png", "alt": "Imagen 4"},
+            "camisetas": {"src": "./img/colon-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "San Lorenzo",
+            "division": "A",
+            "apodo": "Ciclón",
+            "colores": "🔵 🔴 🔵",
+            "fundacion": "1 de abril de 1908",
+            "estadio": "Pedro Bidegain",
+            "capacidad": 47000,
+            "presupuesto": 10000000,
+            "media": 82,
+            "jugadores": [
+                    {
+                        "nombre": "Agustín Orión",
+                        "dorsal": 23,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "26/07/1981",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "José Ramírez",
+                        "dorsal": 12,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "03/02/1977",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Sebastián Saja",
+                        "dorsal": 1,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "05/06/1979",
+                        "posicion": "Arquero"
+                    },
+                    {
+                        "nombre": "Leandro Álvarez",
+                        "dorsal": 13,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "04/06/1981",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Fèlix Benito",
+                        "dorsal": 15,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "20/01/1978",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Diego Capria",
+                        "dorsal": 6,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "27/08/1972",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Celso Esquivel",
+                        "dorsal": 29,
+                        "nacionalidad": "Paraguay",
+                        "nacimiento": "20/03/1981",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Luis Medero",
+                        "dorsal": 16,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "24/01/1973",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Claudio Morel Rodríguez",
+                        "dorsal": 3,
+                        "nacionalidad": "Paraguay",
+                        "nacimiento": "02/02/1978",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Aldo Paredes",
+                        "dorsal": 4,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "15/02/1972",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Guillermo Rivarola",
+                        "dorsal": 14,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "11/10/1968",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Lucas Andrés Rodríguez",
+                        "dorsal": 28,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "11/03/1982",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Juan José Serrizuela",
+                        "dorsal": 17,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "25/01/1977",
+                        "posicion": "Defensor"
+                    },
+                    {
+                        "nombre": "Leonardo Di Lorenzo",
+                        "dorsal": 24,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "20/05/1981",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Walter Erviti",
+                        "dorsal": 11,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "12/06/1980",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Pablo Michelini",
+                        "dorsal": 5,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "07/10/1973",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Walter Montillo",
+                        "dorsal": 33,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "14/04/1984",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Juan Piombo",
+                        "dorsal": 27,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "12/04/1982",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Lucas Pusineri",
+                        "dorsal": 21,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "16/07/1976",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Leonardo Rodriguez",
+                        "dorsal": 30,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "27/08/1966",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Leandro Romagnoli",
+                        "dorsal": 10,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "17/03/1981",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Claudio Sarría",
+                        "dorsal": 18,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "10/08/1975",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Cristian Zurita",
+                        "dorsal": 22,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "24/07/1979",
+                        "posicion": "Mediocampista"
+                    },
+                    {
+                        "nombre": "Alberto Acosta",
+                        "dorsal": 20,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "23/08/1966",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Julio Bevacqua",
+                        "dorsal": 26,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "09/06/1980",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Raúl Estévez",
+                        "dorsal": 7,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "21/01/1978",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Lucio Filomeno",
+                        "dorsal": 25,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "08/05/1980",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Guillermo Franco",
+                        "dorsal": 8,
+                        "nacionalidad": "México",
+                        "nacimiento": "03/11/1976",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Nicolás Guevara",
+                        "dorsal": 31,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "01/02/1982",
+                        "posicion": "Delantero"
+                    },
+                    {
+                        "nombre": "Bernardo Romeo",
+                        "dorsal": 9,
+                        "nacionalidad": "Argentina",
+                        "nacimiento": "13/03/1983",
+                        "posicion": "Delantero"
+                    }               
+            ],
+            "tecnicos": [
+                {"nombre": "Manuel Pellegrini", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/sanlorenzo.png", "alt": "Imagen 5"},
+            "camisetas": {"src": "./img/sanlorenzo-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Estudiantes (LP)",
+            "division": "A",
+            "apodo": "Pincharrata",
+            "colores": "🔴 ⚪️ 🔴",
+            "fundacion": "4 de agosto de 1905",
+            "estadio": "Jorge Luis Hirschi",
+            "capacidad": 23000,
+            "presupuesto": 5000000,
+            "media": 78,
+            "jugadores": [
+                {
+                    "nombre": "Leandro Evangelisti",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/01/1982",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Marcelo Misetich",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/04/1968",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Nicolas Tauber",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/08/1980",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Nicolás Ayr",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/10/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Azconzábal",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/09/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Raúl Bergara",
+                    "dorsal": 22,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "29/12/1971",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Colotto",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/03/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Fernández",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/03/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Krupoviesa",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/04/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Javier Menghini",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/02/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Pablo Quatrocchi",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/01/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Leandro Testa",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/03/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Martín Andrizzi",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/07/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leandro Benítez",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/04/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Marcelo Carrusca",
+                    "dorsal": 39,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/01/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alfredo Cascini",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/04/1971",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Israel Damonte",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Marcos Gelabert",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/09/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Agustín González",
+                    "dorsal": 37,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/01/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Lucas Nardi",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/09/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alejandro Osorio",
+                    "dorsal": 15,
+                    "nacionalidad": "Chile",
+                    "nacimiento": "24/09/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Fabio Pieters",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/06/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Roberto Pompei",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/03/1970",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ariel Zapata",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/09/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Rodrigo Astudillo",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/11/1977",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Eloy Colombano",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/06/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Ernesto Farías",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/05/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Pablo Lugüercio",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/03/1982",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Ezequiel Maggiolo",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/06/1977",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Mariano Pavone",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/05/1982",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Mauricio Piersimone",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/03/1973",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Néstor Craviotto", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/estudiantes.png", "alt": "Imagen 6"},
+            "camisetas": {"src": "./img/estudiantes-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Gimansia (LP)",
+            "division": "A",
+            "apodo": "Tripero",
+            "colores": "⚪️ 🔵 ⚪️",
+            "fundacion": "26 de abril de 1924",
+            "estadio": "Juan Carmelo Zerillo",
+            "capacidad": 27700,
+            "presupuesto": 5000000,
+            "media": 78,
+            "jugadores": [
+                {
+                    "nombre": "Guillermo Hernando",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/09/1974",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Enzo Noce",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/04/1969",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Juan Romero",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/11/1979",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Lucas Bustos",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/10/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Marcelo Goux",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/09/1975",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Guidi",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/02/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Herner",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/07/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Lucas Licht",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Germán Noce",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/01/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Martín Pautasso",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/05/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Eros Pérez",
+                    "dorsal": 3,
+                    "nacionalidad": "Chile",
+                    "nacimiento": "03/06/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Jorge San Esteban",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/06/1972",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Guillermo Sanguinetti",
+                    "dorsal": 4,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "21/06/1966",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Fernando Zaniratto",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "José Albornoz",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/07/1970",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Germán Castillo",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/10/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Darío Cavallo",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/07/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gonzalo Choy",
+                    "dorsal": 16,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "11/10/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Esteban González",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/09/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Miguel González",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/08/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Guillermo Larrosa",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/08/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Lucas Lobos",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/08/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Andrés Madrid",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/07/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mariano Messera",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Scotti",
+                    "dorsal": 5,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "14/01/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pedro Troglio",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/07/1965",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Claudio Enría",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/08/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Fernando Gatti",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/10/1978",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Nestor Salazar",
+                    "dorsal": 22,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "19/12/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Facundo Sava",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/03/1974",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Federico Turienzo",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/02/1983",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Carlos Ramacciotti", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/gimnasia.png", "alt": "Imagen 7"},
+            "camisetas": {"src": "./img/gimnasia-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Chacarita Juniors",
+            "division": "A",
+            "apodo": "Funebrero",
+            "colores": "🔴 ⚪️ ⚫️",
+            "fundacion": "1 de mayo de 1906",
+            "estadio": "Chacarita Juniors",
+            "capacidad": 190000,
+            "presupuesto": 3000000,
+            "media": 75,
+            "jugadores": [
+                {
+                    "nombre": "Juan Docabo",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/12/1970",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Carlos Navarro Montoya",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/02/1966",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Pablo Santillo",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/03/1980",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Jorge Vivaldo",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/02/1967",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Patricio Arce",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/06/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ivan Furios",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/05/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Darío Marra",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/03/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Sebastián Mongioi",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/02/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "David Pérez",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/11/1975",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Javier Pinola",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/02/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Luciano Precone",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/02/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Leo Ramos",
+                    "dorsal": 6,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "11/09/1969",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Matías Delgado",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/12/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leandro di Paolo",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/05/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Román Díaz",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/07/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonardo Mas",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/07/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mariano Mignini",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/10/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Carlos Moreno",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/01/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ernesto Pedernera",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/01/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Rivero",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/08/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Sebastián Romero",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/12/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Sebastián Romero",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/12/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier Rosada",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/04/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonel Unyicio",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/05/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Fernández",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1978",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Tati Montoya",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/10/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Jorge Quinteros",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/04/1974",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Jorge Torales",
+                    "dorsal": 30,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "01/06/1984",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "José Pastoriza", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/chacarita4.png", "alt": "Imagen 8"},
+            "camisetas": {"src": "./img/chacarita-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Belgrano (CBA)",
+            "division": "A",
+            "apodo": "Pirata",
+            "colores": "🔵 🔵 🔵",
+            "fundacion": "19 de marzo de 1905",
+            "estadio": "Julio César Villagra",
+            "capacidad": 34830,
+            "presupuesto": 3000000,
+            "media": 75,
+            "jugadores":[
+                {
+                    "nombre": "José Burtovoy",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/11/1976",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Germán Montoya",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/01/1983",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Juan Olave",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/02/1976",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Gonzalo Vicente",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/08/1979",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Osvaldo Bordicio",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/07/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Osvaldo Bordicio",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/07/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "José Brusco",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/08/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Marcos Bustos",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/05/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Sergio Castillo",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/12/1968",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Fernando Cravero",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/06/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Marcelo Iglesias",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/06/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Facundo Imboden",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/02/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Julio López",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/01/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Rubiel Quintana",
+                    "dorsal": 17,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "26/06/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Pablo Rodríguez",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/12/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gastón Turus",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/05/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Franco Amaya",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/09/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Matías Arce",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/01/1984",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Casado",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/06/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Rubén Gómez",
+                    "dorsal": 40,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/01/1984",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mariano Guzmán",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/03/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gastón Martina",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/01/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gabriel Meta",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/07/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Fram Pacheco",
+                    "dorsal": 19,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "08/11/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jorge Priotti",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/07/1972",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leandro Silva",
+                    "dorsal": 35,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/09/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Darío Zárate",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/05/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier Alessandria",
+                    "dorsal": 38,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/03/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Juan Aróstegui",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/02/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Juan Córtez",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/11/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Felipe Desagastizábal",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/10/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Adrián Gorostidi",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/02/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Julio Mugnaini",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/02/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Mauro Óbolo",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/09/1981",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Tomás Cuéllar", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/belgrano.png", "alt": "Imagen 9", "style": "max-height: 95.6%; width: 100%"},
+            "camisetas": {"src": "./img/belgrano-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Independiente",
+            "division": "A",
+            "apodo": "Rojo",
+            "colores": "🔴 🔴 🔴",
+            "fundacion": "1 de enero de 1905",
+            "estadio": "Club Atlético Independiente",
+            "capacidad": 30000,
+            "presupuesto": 10000000,
+            "media": 80,
+            "jugadores": [
+                {
+                    "nombre": "Damián Albil",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/02/1979",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Ariel Rocha",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/04/1973",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Dario Sala",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/10/1974",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Ariel Donnet",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Matias Manrique",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/11/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Matias Marchesini",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/05/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gabriel Milito",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/09/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Javier Páez",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/09/1975",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Mariano Pernía",
+                    "dorsal": 17,
+                    "nacionalidad": "España",
+                    "nacimiento": "04/05/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Ramírez",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/03/1965",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Tissera",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/09/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Matías Villavicencio",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/09/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "José Zelaye",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/12/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Walter Bustos",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/05/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Eluchans",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/04/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Hernán Franco",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/01/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Rubén Galván",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/02/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Guiñazú",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/08/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Federico Insúa",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/01/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonardo Pekarnik",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/04/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Livio Prieto",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/07/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonel Ríos",
+                    "dorsal": 35,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/11/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Franco Troche",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/03/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Guillermo Ayala",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/09/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Jeremías Caggiano",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/03/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Gustavo Carraro",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/05/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Pablo Cuba",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/10/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Claudio González",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/09/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Emanuel Rivas",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/03/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Andrés Silvera",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/03/1977",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Maximiliano Vallejo",
+                    "dorsal": 39,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/04/1982",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Matías Vuoso",
+                    "dorsal": 30,
+                    "nacionalidad": "México",
+                    "nacimiento": "03/11/1981",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Enzo Trossero", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/independiente.png", "alt": "Imagen 10"},
+            "camisetas": {"src": "./img/independiente-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Argentinos Juniors",
+            "division": "A",
+            "apodo": "Bicho",
+            "colores": "🔴 ⚪️ 🔴",
+            "fundacion": "15 de agosto de 1904",
+            "estadio": "Asoc. Atl. Argentinos Jrs",
+            "capacidad": 22000,
+            "presupuesto": 3000000,
+            "media": 75,
+            "jugadores":[
+                {
+                    "nombre": "Pablo Aurrecochea",
+                    "dorsal": 28,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "08/03/1981",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Rodrigo Burela",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/10/1971",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Juan Carrera",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/05/1981",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Raúl Sanzotti",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/01/1975",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "José Belforti",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Cogliandro",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/10/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Pablo De Muner",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian García",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/04/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Matias Mantilla",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/02/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Sebastián Pena",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/07/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Nicolás Pisano",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/09/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ariel Seltzer",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/01/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Oscar Alaníz",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/07/1971",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Albornós",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/07/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Martín Belforti",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/04/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gonzalo Bidal",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/10/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Hugo Colace",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1984",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jesús Díaz",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/03/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Fabián Garfagnoli",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/08/1970",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Nicolás Gianni",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/09/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mariano Herrón",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/02/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonel Jaureguiberry",
+                    "dorsal": 22,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "11/08/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Santiago Kuhl",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/10/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gastón Liendo",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/05/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gastón Machín",
+                    "dorsal": 35,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Matías Monzón",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/10/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Facundo Pérez Castro",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/08/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonardo Pisculichi",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/01/1984",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Cordone",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1974",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Nicolás Martelli",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/03/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Raúl Salazar",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/05/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Daniel Tilger",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/08/1970",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Fernando Zagharián",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/01/1977",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Jorge Solari", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/argentinos.png", "alt": "Imagen 11"},
+            "camisetas": {"src": "./img/argentinos-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Lanús",
+            "division": "A",
+            "apodo": "Granate",
+            "colores": "🔴 🔴 🔴",
+            "fundacion": "3 de enero de 1915",
+            "estadio": "Néstor Díaz Pérez",
+            "capacidad": 47000,
+            "presupuesto": 3000000,
+            "media": 78,
+            "jugadores":[
+                {
+                    "nombre": "Claudio Flores",
+                    "dorsal": 1,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "10/05/1976",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Fernando Martinuzzi",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1980",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Marcelo Pontiroli",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/01/1972",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Lucas Alessandría",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/04/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Javier Almirón",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/02/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Carlos Galván",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/10/1973",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Santiago Hoyos",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/06/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego López",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/11/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ricardo Pagés",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/02/1973",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gabriel Ramón",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/05/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Walter Ribonetto",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/07/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Carlos Roldán",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/09/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Mauricio Romero",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/01/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Álvarez",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/01/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Bustos",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/08/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ezequiel Carboni",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/04/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Walter Coyette",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/01/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Daniele",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/03/1971",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Rodrigo Díaz",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/08/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Fernández Di Alessio",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/09/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Emiliano Gianunzio",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/01/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gabriel Iribarren",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/06/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Mariño",
+                    "dorsal": 27,
+                    "nacionalidad": "Perú",
+                    "nacimiento": "02/01/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Sebastián Salomón",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/12/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Luis Zubeldía",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/01/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gonzalo Belloso",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/03/1974",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Arley Betancourt",
+                    "dorsal": 24,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "04/03/1975",
+                    "posicion": "Delantero"
+                },{
+                    "nombre": "Sebastián Coria",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/02/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Cristian Fabbiani",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/09/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Silvio González",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/06/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Ariel López",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/04/1974",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Rodrigo Mannara",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/12/1979",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Daniel Córdoba", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/lanus.png", "alt": "Imagen 12"},
+            "camisetas": {"src": "./img/lanus-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Nueva Chicago",
+            "division": "A",
+            "apodo": "Torito",
+            "colores": "🟢 ⚫️ 🟢",
+            "fundacion": "1 de julio de 1911",
+            "estadio": "Don Guillermo López",
+            "capacidad": 28000,
+            "presupuesto": 1000000,
+            "media": 75,
+            "jugadores":[
+                {
+                    "nombre": "Walter Cáceres",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/02/1975",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Flavio Frangelia",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/03/1975",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "César Velázquez",
+                    "dorsal": 1,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "16/09/1972",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Facundo Argüello",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/02/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Adrián Barbona",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/03/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Herbella",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/05/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Eduardo Magnin",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/02/1969",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Maximiliano Ortiguera",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/07/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Mario Aguilar",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/08/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ariel Borda",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/05/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Horacio Cardozo",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/11/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "César Carranza",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/08/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Damián Castellanos",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/08/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alejandro Farías",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/01/1970",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Christian Gómez",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/11/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Huerta",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/07/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Julián Kmet",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/11/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Hernán Manríque",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/08/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonel Martens",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/05/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Martínez",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/12/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonardo Orsi",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/01/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jonathan Santana",
+                    "dorsal": 14,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "19/10/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Julio Serrano",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/03/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ezequiel Amaya",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/02/1978",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Adrián Fernández",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/11/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Óscar Gómez",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/08/1968",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Ariel Jesús",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/06/1974",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Martin Mandra",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/12/1975",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Francisco Ferraro", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/nueva_chicago.png", "alt": "Imagen 13"},
+            "camisetas": {"src": "./img/nueva_chicago-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Newell's Old Boys",
+            "division": "A",
+            "apodo": "Leproso",
+            "colores": "⚫️ 🔴 ⚫️",
+            "fundacion": "3 de noviembre de 1903",
+            "estadio": "Coloso del Parque",
+            "capacidad": 42000,
+            "presupuesto": 1000000,
+            "media": 75,
+            "jugadores":[
+                {
+                    "nombre": "Claudio Flores",
+                    "dorsal": 1,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "10/05/1976",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Fernando Martinuzzi",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1980",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Oscar Passet",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/10/1965",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Diego Luque",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/03/1976",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Fernando Crosa",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/02/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Raúl Damiani",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/04/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Sebastián Domínguez",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/07/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Leandro Fernández",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/01/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Grabinski",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/12/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gabriel Ruiz",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/01/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Luciano Vella",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Vojvoda",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/05/1975",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Bono",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/03/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Alejandro Bravo",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/01/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Domizi",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "09/06/1969",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gustavo Dueña",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/07/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leandro Grech",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/10/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Guillermo Marino",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/02/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Raul Martinez",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/05/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leonardo Ponzio",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/01/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Iván Borghello",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/01/1983",
+                    "posicion": "Delantero"
+                },{
+                    "nombre": "Mauro Conocchiari",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/08/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Rubén Gigena",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/10/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Nicolás Pavlovich",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/02/1978",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Lisandro Sacripanti",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/01/1982",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Nicolás Saucedo",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/01/1982",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Julio Zamora", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/newells.png", "alt": "Imagen 14"},
+            "camisetas": {"src": "./img/newells-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Vélez Sarsfield",
+            "division": "A",
+            "apodo": "Fortín",
+            "colores": "⚪️ 🔵 ⚪️",
+            "fundacion": "1 de enero de 1910",
+            "estadio": "José Amalfitani",
+            "capacidad": 46500,
+            "presupuesto": 1000000,
+            "media": 75,
+            "jugadores":[
+                {
+                    "nombre": "Sebastián Hernández",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/03/1983",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Bernardo Leyenda",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/03/1980",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Gastón Sessa",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/04/1973",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Marcelo Bustamante",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/02/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Eduardo Domínguez",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/09/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Federico Domínguez",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/08/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Emiliano Dudar",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/08/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Fabricio Fuentes",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/10/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Martín Hidalgo",
+                    "dorsal": 29,
+                    "nacionalidad": "Perú",
+                    "nacimiento": "15/06/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Santiago Ladino",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/10/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Maximiliano Pellegrino",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/01/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Mariano Uglessich",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/11/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Vella",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/03/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Martín Agostena",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/11/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Esteban Buján",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/07/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Maximiliano Bustos",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/01/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Patricio Camps",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/01/1972",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Emanuel Centurión",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/08/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Fabián Cubero",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/12/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Carlos Falcón",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/11/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leandro Gracián",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/08/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jonás Gutiérrez",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/07/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Guillermo Morigi",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/03/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Patricio Pérez",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/06/1985",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Pietravallo",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/12/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Leandro Somoza",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/01/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Oscar Villamayor",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/09/1980",
+                    "posicion": "Mediocampista"
+                    },
+                    {
+                    "nombre": "Cristian Bardaro",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/08/1977",
+                    "posicion": "Delantero"
+                    },
+                    {
+                    "nombre": "Mariano Chirumbolo",
+                    "dorsal": 35,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/12/1982",
+                    "posicion": "Delantero"
+                    },
+                    {
+                    "nombre": "Darío Husaín",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/05/1976",
+                    "posicion": "Delantero"
+                    },
+                    {
+                    "nombre": "Junior da Silva",
+                    "dorsal": 16,
+                    "nacionalidad": "Brasil",
+                    "nacimiento": "03/04/1981",
+                    "posicion": "Delantero"
+                    },
+                    {
+                    "nombre": "Roberto Nanni",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/08/1981",
+                    "posicion": "Delantero"
+                    },
+                    {
+                    "nombre": "Julián Tellez",
+                    "dorsal": 9,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "09/11/1977",
+                    "posicion": "Delantero"
+                    },
+                    {
+                    "nombre": "Lucas Valdemarín",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/05/1978",
+                    "posicion": "Delantero"
+                    }
+                ]                    
+            ,
+            "tecnicos": [
+                {"nombre": "Carlos Ischia", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/velez.png", "alt": "Imagen 15"},
+            "camisetas": {"src": "./img/velez-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Rosario Central",
+            "division": "A",
+            "apodo": "Canalla",
+            "colores": "🟡 🔵 🟡",
+            "fundacion": "24 de diciembre de 1889",
+            "estadio": "Gigante de Arroyito",
+            "capacidad": 46900,
+            "presupuesto": 1000000,
+            "media": 75,
+            "jugadores":[
+                {
+                    "nombre": "Cristian Campestrini",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/06/1980",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Hernán Castellano",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/08/1972",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Claudio Manchado",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/03/1971",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Gerardo Rabajda",
+                    "dorsal": 25,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "13/08/1967",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Laureano Tombolini",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/08/1976",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Emiliano Buttazzoni",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/04/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ricardo Canals",
+                    "dorsal": 5,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "26/09/1970",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Daniel Díaz",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/03/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Leandro Diema",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/10/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Paulo Ferrari",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/01/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Mariano Gonzalez",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "31/12/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Marcelo Maidana",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/01/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Germán Rivarola",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/04/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Leonardo Talamonti",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/11/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Javier Becerra",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/07/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier Cappelletti",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/10/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Lucas Correa",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/02/1984",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Luciano De Bruno",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/08/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mariano Echagüe",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/06/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Hernán Encina",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/11/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Erroz",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/09/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Hernán Ferri",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento":    "31/03/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Javier García",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/01/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Emiliano Papa",
+                    "dorsal": 40,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/04/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Quinteros",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/03/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Marcelo Quinteros",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/12/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Sánchez",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/01/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Liber Vespa",
+                    "dorsal": 8,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "18/10/1971",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Federico Arias",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/04/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Gustavo Arriola",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/06/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "César Delgado",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/08/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Luciano Figueroa",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/05/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Sebastián Gasparini",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/05/1980",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Fernando Pierucci",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/11/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Mauro Poy",
+                    "dorsal": 35,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "02/07/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Pablo Vacaría",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/11/1980",
+                    "posicion": "Delantero"
+                }
+            ]            
+            ,
+            "tecnicos": [
+                {"nombre": "César Luis Menotti", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/rosariocentral.png", "alt": "Imagen 16"},
+            "camisetas": {"src": "./img/rosariocentral-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Unión (SF)",
+            "division": "A",
+            "apodo": "Tatengue",
+            "colores": "🔴 ⚪️ 🔴",
+            "fundacion": "15 de abril de 1907",
+            "estadio": "15 de abril",
+            "capacidad": 27300,
+            "presupuesto": 500000,
+            "media": 72,
+            "jugadores":[
+                {
+                    "nombre": "Leo Fernández",
+                    "dorsal": 1,
+                    "nacionalidad": "Bolivia",
+                    "nacimiento": "13/01/1974",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Nereo Fernández",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/04/1979",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Emanuel Trípodi",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/08/1981",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Juan Pablo Cárdenas",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/05/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Héctor Desvaux",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/02/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Walter Ferrero",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/02/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Marcelo Mosset",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/09/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Olivera",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/03/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Fernando Ortiz",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/12/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gustavo Raggio",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/10/1971",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Julio Valli",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/05/1977",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Oscar Vera",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/05/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Wernly",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/07/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Basualdo",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/04/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Rubén Capria",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1970",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "David Chávez",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/09/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Favio Fernández",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/07/1972",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Norberto Fernández",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/01/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Adrián González",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/11/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Guillermo Israilevich",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/09/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ezequiel Lezcano",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/04/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Carlos Mazzoni",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/03/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Emmanuel Ruiz",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/07/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Andrés San Martín",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/04/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Martín Zapata",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/12/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Nicolás Frutos",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "13/05/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "José Parmigiani",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/01/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "César Pereyra",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/11/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Martín Perezlindo",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/01/1977",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Gustavo Reggi",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/05/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Héctor Weisheim",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/01/1981",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Frank Kudelka", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/union.png", "alt": "Imagen 17"},
+            "camisetas": {"src": "./img/union-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Banfield",
+            "division": "A",
+            "apodo": "Taladro",
+            "colores": "🟢 ⚪️ 🟢",
+            "fundacion": "21 de enero de 1896",
+            "estadio": "Florencio Sola",
+            "capacidad": 34900,
+            "presupuesto": 500000,
+            "media": 72,
+            "jugadores":[
+                {
+                    "nombre": "Cristian Lucchetti",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/06/1978",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Alejandro Migliardi",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/03/1972",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Julio Barraza",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/04/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Diego Cocca",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/02/1972",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Walter Fonseca",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/01/1980",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Damian Gimenez",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/02/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Adrián González",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/05/1972",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Juan Quiroga",
+                    "dorsal": 39,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "20/04/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Santiago Rodríguez",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/09/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Javier Sanguinetti",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/01/1971",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Pedro Villafañe",
+                    "dorsal": 38,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/05/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Mauro Amato",
+                    "dorsal": 35,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/12/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Federico Barrionuevo",
+                    "dorsal": 34,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/06/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Bilos",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/09/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Del Río",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/02/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Fernández",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/05/1971",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Walter Jiménez",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "29/08/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Carlos Leeb",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/07/1968",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Leiva",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/09/1977",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Lezcano",
+                    "dorsal": 42,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/01/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Norberto López",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/05/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Raúl Pretel",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/08/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Matías Raposo",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/05/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jose Luis Sánchez",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/05/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Fabián Santa Cruz",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/02/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Jesús Sinisterra",
+                    "dorsal": 19,
+                    "nacionalidad": "Colombia",
+                    "nacimiento": "09/12/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Fernando Álvarez",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/04/1982",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Sebastián Bueno",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/10/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Jorge Cervera",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/01/1975",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Josemir Lujambio",
+                    "dorsal": 31,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "25/09/1971",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Germán Real",
+                    "dorsal": 37,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/04/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Pablo Russo",
+                    "dorsal": 41,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/03/1981",
+                    "posicion": "Delantero"
+                }
+                ],
+            "tecnicos": [
+                {"nombre": "Luis Garisto", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/banfield.png", "alt": "Imagen 18"},
+            "camisetas": {"src": "./img/banfield-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Huracán",
+            "division": "A",
+            "apodo": "Globo",
+            "colores": "⚪️ 🔴 ⚪️",
+            "fundacion": "1 de noviembre de 1908",
+            "estadio": "Tomás Adolfo Ducó",
+            "capacidad": 48300,
+            "presupuesto": 500000,
+            "media": 72,
+            "jugadores":[
+                {
+                    "nombre": "Carlos Andersen",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "18/03/1973",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Gonzalo Ponzio",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/01/1979",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Martín Ríos",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/07/1977",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Christian Cellay",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/09/1981",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Pablo Erbin",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/10/1965",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Cristian Fernández",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/07/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Rodolfo Graieb",
+                    "dorsal": 4,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/06/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gabriel Lobos",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/04/1974",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Fernando Moner",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "30/12/1967",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Sebastián Morquio",
+                    "dorsal": 2,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "22/01/1976",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ramón Ortíz",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/06/1983",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Alfredo Torres",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/07/1979",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Alejandro Alonso",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/03/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Hernán Buján",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/12/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Garipe",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/05/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Marcelo Gómez",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "07/12/1970",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Santiago Hirsig",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/01/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Lucho González",
+                    "dorsal": 8,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/01/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Monsalvo",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/01/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Daniel Montenegro",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/03/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Ramón Ortíz",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/11/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Padra",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/01/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Darío Pranich",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/02/1982",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Juan Sosa",
+                    "dorsal": 32,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/02/1985",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Carim Adippe",
+                    "dorsal": 30,
+                    "nacionalidad": "Uruguay",
+                    "nacimiento": "19/05/1973",
+                    "posicion": "Delantero"
+                },
+
+                {
+                    "nombre": "Emanuel de Porras",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "16/10/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Alberto Godoy",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "28/10/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Julio González",
+                    "dorsal": 9,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "26/08/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Claudio Guerra",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/08/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Derlis Soto",
+                    "dorsal": 9,
+                    "nacionalidad": "Paraguay",
+                    "nacimiento": "04/03/1973",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Emanuel Villa",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/02/1982",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Miguel Brindisi", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/huracan.png", "alt": "Imagen 19"},
+            "camisetas": {"src": "./img/huracan-camisetas-200x130.png"}
+        },
+        {
+            "nombre": "Talleres (CBA)",
+            "division": "A",
+            "apodo": "T",
+            "colores": "🔵 ⚪️ 🔵",
+            "fundacion": "12 de octubre de 1913",
+            "estadio": "Francisco Cabasés",
+            "capacidad": 18000,
+            "presupuesto": 500000,
+            "media": 72,
+            "jugadores":[
+                {
+                    "nombre": "Darío Capogrosso",
+                    "dorsal": 39,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/09/1978",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Mario Cuenca",
+                    "dorsal": 1,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "03/06/1975",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Esteban Dei Rossi",
+                    "dorsal": 19,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/04/1981",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Cristian Muñoz",
+                    "dorsal": 12,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/07/1977",
+                    "posicion": "Arquero"
+                },
+                {
+                    "nombre": "Leonardo Baroni",
+                    "dorsal": 38,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/01/1984",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Santiago Del Sotto",
+                    "dorsal": 23,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/11/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Ramón Galarza",
+                    "dorsal": 25,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "23/09/1971",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Horacio Humoller",
+                    "dorsal": 3,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/12/1966",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Víctor López",
+                    "dorsal": 14,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "19/12/1978",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Julián Maidana",
+                    "dorsal": 2,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "11/01/1972",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Marcos Morell",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/09/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Gabriel Oyola",
+                    "dorsal": 29,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/09/1982",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Víctor Sotomayor",
+                    "dorsal": 6,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "21/01/1968",
+                    "posicion": "Defensor"
+                },
+                {
+                    "nombre": "Adrián Ávalos",
+                    "dorsal": 5,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/11/1974",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Sebastián Carrizo",
+                    "dorsal": 22,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/02/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Diego Garay",
+                    "dorsal": 10,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "01/02/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "César La Paglia",
+                    "dorsal": 20,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "25/02/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Ledesma",
+                    "dorsal": 37,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/02/1984",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gustavo Lillo",
+                    "dorsal": 17,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "08/08/1973",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Salvador Mira",
+                    "dorsal": 36,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "22/02/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Lucas Molina",
+                    "dorsal": 27,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/01/1981",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Mariano Monrroy",
+                    "dorsal": 15,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "04/06/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Pablo Motta",
+                    "dorsal": 28,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/04/1983",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Pino",
+                    "dorsal": 11,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/12/1976",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Cristian Rami",
+                    "dorsal": 16,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "26/01/1978",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Gabriel Roth",
+                    "dorsal": 21,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "05/05/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Maximiliano Salas",
+                    "dorsal": 13,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "12/12/1975",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Marcelo Sarmiento",
+                    "dorsal": 18,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/08/1979",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "David Vega",
+                    "dorsal": 26,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "17/11/1980",
+                    "posicion": "Mediocampista"
+                },
+                {
+                    "nombre": "Federico Astudillo",
+                    "dorsal": 24,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "06/01/1981",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Eduardo Escobar",
+                    "dorsal": 30,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "24/02/1979",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Éber Fernández",
+                    "dorsal": 9,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "10/02/1976",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Pedro Ojeda",
+                    "dorsal": 7,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "15/11/1972",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Emanuel Perrone",
+                    "dorsal": 33,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "14/06/1983",
+                    "posicion": "Delantero"
+                },
+                {
+                    "nombre": "Claudio Pronetto",
+                    "dorsal": 31,
+                    "nacionalidad": "Argentina",
+                    "nacimiento": "27/08/1980",
+                    "posicion": "Delantero"
+                }
+            ],
+            "tecnicos": [
+                {"nombre": "Ricardo Gareca", "temporadas": [{"temporada": "01/02", "años": 2, "sueldo": 30000}]}
+            ],
+            "escudo": {"src": "./img/talleres.png", "alt": "Imagen 20"},
+            "camisetas": {"src": "./img/talleres-camisetas-200x130.png"}
+        }
+    ]
+}
